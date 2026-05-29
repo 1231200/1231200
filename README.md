@@ -1,9 +1,5 @@
 # Hi there, I'm Francisco Alves 👋
 
-<p align="center">
-  <a href="[https://linkedin.com/in/www.linkedin.com/in/franciscoalves-eng]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-
 ### 💻 About Me
 
 I am a Computer Engineering student at **ISEP** passionate about building secure, scalable, and resilient digital ecosystems. My core focus lies at the intersection of advanced software architecture and infrastructure defense.
